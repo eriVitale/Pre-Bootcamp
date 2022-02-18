@@ -1,0 +1,125 @@
+.upper{
+    background-color:darkmagenta;
+    color: white;
+    display: flex;
+    font-family: Calibri;
+    font-size:30px;
+    justify-content:space-evenly;
+    padding: 10px;
+    margin: 0px;
+    align-items: center;
+    height: 60px;
+    border: 2px solid gray;
+    border-radius: 2px;
+}
+.navigation{
+    justify-content: flex;
+    
+}
+.aboutme{
+    list-style-type: none;
+    display: inline-block;
+    margin: 30px;
+}
+
+button{
+    font-family:Calibri;
+    background-color:darkgray;
+    color: black;
+    border: 2px solid white;
+    border-radius: 2px;
+    font-size: 20px;
+    padding: 10px;
+    width: 150px;
+}
+.lower{
+    display: flex;
+    font-family: Calibri;
+    font-size: 20px;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+
+.bio{
+    border: 2px solid gray;
+    padding: 10px;
+}
+.education{
+    display: inline-block;
+    border: 2px solid gray;
+    margin-top: 20px;
+    
+}
+.banner{
+    height: 100px;
+    background-color: thistle;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: 2px solid gray;
+    padding: 15px;
+    justify-content: space-evenly;
+    
+}
+.mypic{
+    height: 120px;
+    padding: 20px;
+}
+.marker{
+    height: 30px;
+    margin-right: 5px;
+}
+.bio h2{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.link{
+    font-size: 20px;
+    color:darkslateblue;
+    text-decoration: underline;
+}
+.gear{
+    height: 20px;
+    margin-right: 5px;
+    color: darkslateblue
+}
+.heading{
+    background-color:rgb(46, 45, 45);
+    height:50px;
+    margin-top: -2px;
+    color: white;
+    padding: 8px;
+    
+}
+.requests{
+    border: 2px solid gray;    
+}
+.connections{
+    border: 2px solid gray;
+    margin-top:30px;
+    
+}
+.right{
+    margin: 30px;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding-right: 30px;
+}
+li{
+    list-style-type: none;
+    font-size: 30px;
+}
+.acceptdeny{
+    height: 30px;
+    
+}
+.link{
+    margin-left:20px;
+}
+.date{
+    color:gray;
+}
+
